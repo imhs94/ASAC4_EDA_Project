@@ -1,1 +1,1 @@
-# ASAC4기 EDA Project
+Spotify API 를 활용한 국가별 음악시장 분석 EDA 프로젝트 
